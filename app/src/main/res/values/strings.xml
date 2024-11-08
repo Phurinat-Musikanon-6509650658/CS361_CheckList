@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title">Body Mass Index</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="bmi_value">BMI Value</string>
+    <string name="bmi_status">BMI Status</string>
+    <string name="calculate">Calculate</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="warn">Please fill in the information</string>
+    <string name="KG">--KG--</string>
+    <string name="CM">--CM--</string>
+    <string name="blank"> </string>
+    <string name="history">BMI history</string>
+    <string name="date">Date</string>
+    <string name="back">BACK</string>
+</resources>
